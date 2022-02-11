@@ -1,0 +1,6 @@
+val: ../RoRI_test/images/test/
+
+# number of classes
+nc: 4
+# class names
+names: [ 'andesite', 'basalt', 'gabbro', 'shale' ]
